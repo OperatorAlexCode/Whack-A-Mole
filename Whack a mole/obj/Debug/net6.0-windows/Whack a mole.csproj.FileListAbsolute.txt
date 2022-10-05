@@ -1,0 +1,46 @@
+C:\Users\alexa\source\repos\Whack a mole\Whack a mole\bin\Debug\net6.0-windows\Content\background.xnb
+C:\Users\alexa\source\repos\Whack a mole\Whack a mole\bin\Debug\net6.0-windows\Content\hole.xnb
+C:\Users\alexa\source\repos\Whack a mole\Whack a mole\bin\Debug\net6.0-windows\Content\hole_foreground.xnb
+C:\Users\alexa\source\repos\Whack a mole\Whack a mole\bin\Debug\net6.0-windows\Content\mole.xnb
+C:\Users\alexa\source\repos\Whack a mole\Whack a mole\bin\Debug\net6.0-windows\Content\spritesheet_puff.xnb
+C:\Users\alexa\source\repos\Whack a mole\Whack a mole\bin\Debug\net6.0-windows\Content\spritesheet_stone.xnb
+C:\Users\alexa\source\repos\Whack a mole\Whack a mole\bin\Debug\net6.0-windows\Whack a mole.exe
+C:\Users\alexa\source\repos\Whack a mole\Whack a mole\bin\Debug\net6.0-windows\Whack a mole.deps.json
+C:\Users\alexa\source\repos\Whack a mole\Whack a mole\bin\Debug\net6.0-windows\Whack a mole.runtimeconfig.json
+C:\Users\alexa\source\repos\Whack a mole\Whack a mole\bin\Debug\net6.0-windows\Whack a mole.dll
+C:\Users\alexa\source\repos\Whack a mole\Whack a mole\bin\Debug\net6.0-windows\Whack a mole.pdb
+C:\Users\alexa\source\repos\Whack a mole\Whack a mole\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\alexa\source\repos\Whack a mole\Whack a mole\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alexa\source\repos\Whack a mole\Whack a mole\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alexa\source\repos\Whack a mole\Whack a mole\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\alexa\source\repos\Whack a mole\Whack a mole\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\alexa\source\repos\Whack a mole\Whack a mole\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\alexa\source\repos\Whack a mole\Whack a mole\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\alexa\source\repos\Whack a mole\Whack a mole\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\alexa\source\repos\Whack a mole\Whack a mole\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\alexa\source\repos\Whack a mole\Whack a mole\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\alexa\source\repos\Whack a mole\Whack a mole\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\alexa\source\repos\Whack a mole\Whack a mole\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\alexa\source\repos\Whack a mole\Whack a mole\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\alexa\source\repos\Whack a mole\Whack a mole\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\alexa\source\repos\Whack a mole\Whack a mole\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\alexa\source\repos\Whack a mole\Whack a mole\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\alexa\source\repos\Whack a mole\Whack a mole\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\alexa\source\repos\Whack a mole\Whack a mole\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\alexa\source\repos\Whack a mole\Whack a mole\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\alexa\source\repos\Whack a mole\Whack a mole\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\alexa\source\repos\Whack a mole\Whack a mole\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\alexa\source\repos\Whack a mole\Whack a mole\obj\Debug\net6.0-windows\Whack a mole.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\Whack a mole\Whack a mole\obj\Debug\net6.0-windows\Whack a mole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\Whack a mole\Whack a mole\obj\Debug\net6.0-windows\Whack a mole.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\Whack a mole\Whack a mole\obj\Debug\net6.0-windows\Whack a mole.AssemblyInfo.cs
+C:\Users\alexa\source\repos\Whack a mole\Whack a mole\obj\Debug\net6.0-windows\Whack a mole.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\Whack a mole\Whack a mole\obj\Debug\net6.0-windows\Whack a mole.csproj.CopyComplete
+C:\Users\alexa\source\repos\Whack a mole\Whack a mole\obj\Debug\net6.0-windows\Whack a mole.dll
+C:\Users\alexa\source\repos\Whack a mole\Whack a mole\obj\Debug\net6.0-windows\refint\Whack a mole.dll
+C:\Users\alexa\source\repos\Whack a mole\Whack a mole\obj\Debug\net6.0-windows\Whack a mole.pdb
+C:\Users\alexa\source\repos\Whack a mole\Whack a mole\obj\Debug\net6.0-windows\Whack a mole.genruntimeconfig.cache
+C:\Users\alexa\source\repos\Whack a mole\Whack a mole\obj\Debug\net6.0-windows\ref\Whack a mole.dll
+C:\Users\alexa\source\repos\Whack a mole\Whack a mole\bin\Debug\net6.0-windows\Content\mole_hit.xnb
+C:\Users\alexa\source\repos\Whack a mole\Whack a mole\bin\Debug\net6.0-windows\Content\gamefont.xnb
+C:\Users\alexa\source\repos\Whack a mole\Whack a mole\bin\Debug\net6.0-windows\Content\mallet.xnb

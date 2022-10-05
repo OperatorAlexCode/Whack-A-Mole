@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/alexa/source/repos/Whack a mole/Whack a mole/Content/gamefont.spritefont","C:/Users/alexa/source/repos/Whack a mole/Whack a mole/Content/bin/Windows/gamefont.xnb","FontDescriptionProcessor","SpriteFontContent",2068,70687,0,2762005
+"C:/Users/alexa/source/repos/Whack a mole/Whack a mole/Content/mallet.png","C:/Users/alexa/source/repos/Whack a mole/Whack a mole/Content/bin/Windows/mallet.xnb","TextureProcessor","Texture2DContent",4146,132181,0,0613333
