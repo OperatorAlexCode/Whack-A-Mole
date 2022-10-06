@@ -138,9 +138,11 @@ namespace Whack_a_mole
                     Keys[] validInputs = { Keys.D1, Keys.D2, Keys.D3 };
                     Keys[] input = keyboard.GetPressedKeys();
 
+                    // Changes the amount of holes and delays, i.e changing the difficult, based upon what key is pressed
                     if (input.Any(k => validInputs.Contains(k)) || keyboard.GetPressedKeyCount() == 1)
                         switch (input[0])
                         {
+                            // Easy
                             case Keys.D1:
                                 HoleAmountX = 3;
                                 HoleAmountY = 3;
@@ -148,6 +150,7 @@ namespace Whack_a_mole
                                 MoleMaxDelay = 1.25f;
                                 StartGame();
                                 break;
+                            // Medium
                             case Keys.D2:
                                 HoleAmountX = 5;
                                 HoleAmountY = 5;
@@ -155,6 +158,7 @@ namespace Whack_a_mole
                                 MoleMaxDelay = 1.25f;
                                 StartGame();
                                 break;
+                            // Hard
                             case Keys.D3:
                                 HoleAmountX = 7;
                                 HoleAmountY = 7;
@@ -189,7 +193,7 @@ namespace Whack_a_mole
 
                         Mole randomMole = Moles[randomizer.Next(0, HoleAmountY - 1), randomizer.Next(0, HoleAmountX - 1)];
 
-                        while (randomMole.CurrentState! != MoleState.Idle)
+                        while (randomMole.CurrentState != MoleState.Idle)
                             randomMole = Moles[randomizer.Next(0, HoleAmountY - 1), randomizer.Next(0, HoleAmountX - 1)];
 
                         randomMole.Activate();
@@ -217,9 +221,10 @@ namespace Whack_a_mole
 
                                         else
                                         {
-                                            Moles[x, y].Hit();
                                             if (Moles[x, y].CurrentState != MoleState.Hit)
-                                            PlayerScore += MoleHitScore;
+                                                PlayerScore += MoleHitScore;
+
+                                            Moles[x, y].Hit();
                                             return;
                                         }
                                     }

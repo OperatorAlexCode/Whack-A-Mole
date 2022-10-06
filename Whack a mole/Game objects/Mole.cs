@@ -146,7 +146,7 @@ namespace Whack_a_mole.Game_objects
 
                 Vel = new(0, new Random().Next(MinSpeed, MaxSpeed));
 
-                int randomNum = new Random().Next(0, 12);
+                int randomNum = new Random().Next(0, 13);
 
                 if (randomNum >= 11)
                     HealthPoints = -1;

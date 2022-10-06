@@ -42,10 +42,10 @@ namespace Whack_a_mole.Game_objects
 
             SpriteFrames = new Rectangle[4];
 
-            SpriteFrames[0] = new Rectangle(0, spriteFrameRow, spriteFrameWidth, spriteFrameHeight);
-            SpriteFrames[1] = new Rectangle((int) (Tex.Width * .25f), spriteFrameRow, spriteFrameWidth, spriteFrameHeight);
-            SpriteFrames[2] = new Rectangle((int) (Tex.Width * .50f), spriteFrameRow, spriteFrameWidth, spriteFrameHeight);
-            SpriteFrames[3] = new Rectangle((int) (Tex.Width * .75f), spriteFrameRow, spriteFrameWidth, spriteFrameHeight);
+            SpriteFrames[0] = new(0, spriteFrameRow, spriteFrameWidth, spriteFrameHeight);
+            SpriteFrames[1] = new((int) (Tex.Width * .25f), spriteFrameRow, spriteFrameWidth, spriteFrameHeight);
+            SpriteFrames[2] = new((int) (Tex.Width * .50f), spriteFrameRow, spriteFrameWidth, spriteFrameHeight);
+            SpriteFrames[3] = new((int) (Tex.Width * .75f), spriteFrameRow, spriteFrameWidth, spriteFrameHeight);
 
             FrameTimer = new();
             FrameTimer.StartTimer(RefreshTime);
@@ -62,9 +62,10 @@ namespace Whack_a_mole.Game_objects
                 else
                     CurrentFrame++;
 
-                FrameTimer.StartTimer(RefreshTime);
                 if (Pos.Y < StopPos.Y)
                     Pos += Vel;
+
+                FrameTimer.StartTimer(RefreshTime);
             }
         }
 
